@@ -1,0 +1,7 @@
+public class AutoNim{
+	
+	public static void main(String[]args){
+		// NIM : Tahum Masuk + Kode Prodi + Nomor Urut registrasi
+		String ta = 
+	}
+}
